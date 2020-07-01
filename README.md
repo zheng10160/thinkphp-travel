@@ -1,11 +1,3 @@
-## 个人简介
-- 作者：张伟江
-- 博客：http://zhangweijiang.com
-- 邮箱：982215226@qq.com
-- 意见反馈:http://github.com/zhangweijiang/thinkphp-travel/issues
-## 链接
-- 约伴旅游网站：http://travel.boolshop.com  
-- github：https://github.com/zhangweijiang/thinkphp-travel 
 
 ## 运行环境
 > ThinkPHP5.0的运行环境要求PHP5.4以上，PHP5.7可能sha加密会报错建议用PHP5.6。
